@@ -5,7 +5,8 @@ Developing a car price prediction model, combining data acquisition, preparation
 Creating a car price prediction model entails gathering information from dependable sources such as CarDekho, improving and cleaning the dataset, looking for patterns, choosing an appropriate machine learning algorithm, training and assessing the model, adjusting its hyperparameters, putting it into use, and then continuously keeping an eye on its accuracy and dependability over time.
 
 About CarDekho 🤡
-cardekho
+![image](https://github.com/Jesi1511/CarDekho-Used-Car-Price-Prediction/assets/144013413/85c1053b-b41c-4ca6-9289-fe97d4f99ae4)
+
 
 CarDekho is a prominent online platform in the Indian automotive industry, offering a comprehensive range of services. Users can access detailed information, specifications, and reviews for various car models, aiding in informed decision-making. The platform features listings for both new and used cars, providing a marketplace for buying and selling vehicles. CarDekho also offers comparison tools, enabling users to assess different models based on specific criteria. Additionally, the website may provide automotive news and updates, covering new launches, reviews, and industry trends.
 
